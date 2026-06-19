@@ -1,0 +1,15 @@
+# 生成物・一時ファイル
+gui_preview.png
+*.tmp
+
+# 解析結果のエクスポート出力（手動テスト等の生成物）
+/out.csv
+/vars.json
+samples/**/*.csv
+samples/**/*.json
+
+# OS / エディタ
+Thumbs.db
+.DS_Store
+*.swp
+.vs/
